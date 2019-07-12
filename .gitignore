@@ -1,0 +1,10 @@
+out/
+build/
+*.ipr
+*.iml
+*.iws
+.gradle
+.idea
+LOG_FILE_IS_UNDEFINED
+
+
