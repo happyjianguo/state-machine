@@ -49,7 +49,7 @@ dependencies {
     compile "org.springframework.boot:spring-boot-starter-web:${springBootVersion}"
     compile "org.springframework.boot:spring-boot-starter-aop:${springBootVersion}"
     compile "org.springframework.boot:spring-boot-autoconfigure:${springBootVersion}"
-    compile "org.springframework.statemachine:spring-statemachine-core:2.1.3.RELEASE"
+    compile "org.springframework.statemachine:spring-statemachine-starter:2.1.3.RELEASE"
 
     compile "mysql:mysql-connector-java:8.0.16"
 
