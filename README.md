@@ -507,3 +507,6 @@ response:
 
 
 [Spring-statemachine 官网](https://projects.spring.io/spring-statemachine/)
+
+
+原文链接：https://blog.csdn.net/lijingyao8206/article/details/78639552
